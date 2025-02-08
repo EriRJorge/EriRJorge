@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EriRJorge
 - 👀 I’m interested in Music, Videogames, and Basketball
 - 🌱 I’m currently Studying Computer Science with an emphasis in Web Dev at Southern Adventist University(SAU)
-- 💞️ I’m looking to collaborate on some out-of-school projects for software dev
+- 💞️ I’m looking to collaborate on some out-of-school projects for web dev
 - 📫 How to reach me my phone # is 561-674-1990. Gmail is EriRJorge@gmail.com. Instagram is tachi_bana1223. Discord is RJRamen.
 
 <!---
