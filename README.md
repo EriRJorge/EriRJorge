@@ -1,4 +1,4 @@
-- Hi, I’m @EriRJorge
+- Hi, I’m Eri R. Jorge
 - I’m currently Studying Computer Science with an emphasis in Web Dev at Southern Adventist University(SAU)
 - I’m looking to collaborate on some out-of-school projects for web dev.
 - How to reach me: my phone # is 561-298-6075. My Gmail is EriRJorge@gmail.com. My Instagram is tachi_bana.exe. My Discord handle is tachi.html.
